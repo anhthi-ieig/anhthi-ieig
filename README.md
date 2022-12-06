@@ -1,12 +1,9 @@
-## 🔥 Pending Tech Tasks
+## 🔥 To Do
 
-1. Apply Redux-Toolkit and Pact to react-boilerplate repo
+1. Apply **Redux-Toolkit** and **Pact** to **react-boilerplate** repo
+2. Learn [CFA Preparation Docs](https://knowledge.sapp.edu.vn/knowledge/t%E1%BB%B1-h%E1%BB%8Dc-cfa-level-i-chartered-financial-analyst)
 
-## 🔥 Pending CFA Tasks
-
-1. Learn [CFA Preparation Docs](https://knowledge.sapp.edu.vn/knowledge/t%E1%BB%B1-h%E1%BB%8Dc-cfa-level-i-chartered-financial-analyst)
-
-## 🔥 Scheduled Tasks in Week
+## 🔥 Weekly Plan
 
 | Time                  | Monday (CFA)     | Tuesday (Tech) | Wednesday (CFA) | Thursday (Tech) | Friday (CFA)     | Saturday (Tech) | Sunday (CFA)     |
 | --------------------- | ---------------- | -------------- | --------------- | --------------- | ---------------- | --------------- | ---------------- |
