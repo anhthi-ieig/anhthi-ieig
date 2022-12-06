@@ -1,6 +1,6 @@
 ## 🔥 Pending Tech Tasks
 
-1. Apply `Redux-Toolkit` and `Pact` to react-boilerplate repo
+1. Apply Redux-Toolkit and Pact to react-boilerplate repo
 
 ## 🔥 Pending CFA Tasks
 
