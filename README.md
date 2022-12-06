@@ -2,13 +2,9 @@
 
 1. Apply `Redux-Toolkit` and `Pact` to react-boilerplate repo
 
----
-
 ## 🔥 Pending CFA Tasks
 
 1. Learn [CFA Preparation Docs](https://knowledge.sapp.edu.vn/knowledge/t%E1%BB%B1-h%E1%BB%8Dc-cfa-level-i-chartered-financial-analyst)
-
----
 
 ## 🔥 Scheduled Tasks in Week
 
