@@ -1,7 +1,15 @@
-## 🔥 To Do
+## 🔥 To Do for Tech
 
-1. Apply **Redux-Toolkit** and **Pact** to **react-boilerplate** repo
-2. Learn [CFA Preparation Docs](https://knowledge.sapp.edu.vn/knowledge/t%E1%BB%B1-h%E1%BB%8Dc-cfa-level-i-chartered-financial-analyst)
+1. Apply **Redux-Toolkit**, **i18n** and **Pact** to **react-boilerplate** repo
+2. Get clear about the whole OET app
+3. Get clear about the business logic of OET app
+4. Apply micro-frontend scenario from OET app to pet project
+
+## 🔥 To Do for CFA
+
+1. Quick look on the Quantitative Methods
+2. Quick look on the Economics
+3. ...
 
 ## 🔥 Weekly Plan
 
